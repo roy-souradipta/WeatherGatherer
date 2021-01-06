@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: demo
+  server:
+    port: 8085
+  kafka:
+    bootstrap:
+      servers: 0.0.0.0:9092
